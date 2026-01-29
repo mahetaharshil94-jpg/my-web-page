@@ -1,0 +1,46 @@
+
+
+*{
+    color: red;
+    background-color: beige;
+    font-size: cursive;
+}
+
+.head {
+
+    font-size: 5rem;
+    color:blue;
+    background-color: red;
+}
+
+.box {
+
+    margin-top: 10rem;
+    color: blueviolet;
+    background-color: black;
+
+}
+
+#doc {
+
+    color: bisque;
+    font-family: cursive;
+    background-color: brown;
+
+    font-size: 10rem;
+}
+img {
+    background-image: url(the\ bhagvat\ gita.jpg);
+    background-image: cover;
+    color: red;
+
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+
+    background-repeat: no-repeat;
+    background-position:right ;
+
+    background-attachment: fixed;
+
+    background-size: 500px;
+}
